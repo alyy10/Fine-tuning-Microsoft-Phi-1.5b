@@ -1,4 +1,4 @@
-# Fine-Tuning Microsoft Phi-1.5b on DialogStudio (TweetSumm) Dataset
+# Fine-Tuning Microsoft Phi-1.5b on Salesforce DialogStudio (TweetSumm) Dataset
 
 This repository contains a Jupyter Notebook demonstrating the fine-tuning of the Microsoft Phi-1.5b model on the Salesforce DialogStudio (TweetSumm) dataset for conversation summarization tasks. The notebook uses PEFT (Parameter-Efficient Fine-Tuning) with LoRA (Low-Rank Adaptation) and 4-bit quantization via BitsAndBytes for efficient training on limited hardware (e.g., Tesla T4 GPU).
 
